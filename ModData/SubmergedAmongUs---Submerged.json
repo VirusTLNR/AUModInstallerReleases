@@ -1,0 +1,9 @@
+{
+	"Mod":{
+	"Name":"Submerged",
+	"Owner":"SubmergedAmongUs",
+	"Visible":"true",
+	"Type":"ADDON",
+	"DownloadReference":"Submerged.dll"
+	}
+}
