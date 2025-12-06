@@ -1,0 +1,9 @@
+{
+	"Mod":{
+	"Name":"AUnlocker",
+	"Owner":"astra1dev",
+	"Visible":"true",
+	"Type":"ADDON",
+	"DownloadReference":".dll"
+	}
+}
