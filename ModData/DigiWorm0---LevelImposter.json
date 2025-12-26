@@ -1,0 +1,9 @@
+{
+	"Mod":{
+	"Name":"LevelImposter",
+	"Owner":"DigiWorm0",
+	"Visible":"true",
+	"Type":"ADDON",
+	"DownloadReference":".dll"
+	}
+}
