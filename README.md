@@ -18,7 +18,7 @@ Public facing repository for "AUModInstaller". All source code is private, this 
 1. once all mods and versions are selected correctly.. select the folder you wish them to be installed to, then click install.
 1. now browse to the folder you selected, and you will see the mod is installed there, you can use the same folder for all your mods, or install to different folders, but be aware.. each time you press the INSTALL button, it will delete the install folder, and re-do everything, which could lead to lost settings (some mods save the settings in the bepinex folder) so i would advise installing to a new folder.
 
-## Get your mod added to the program
+## Get a mod added to the program
 If you are a mod developer, or anyone really, and you want to see a mod added to the program, either...
 
 Raise an ISSUE on this repository with the github of the mod you wish to be added.
