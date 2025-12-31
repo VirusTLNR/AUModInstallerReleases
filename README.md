@@ -3,7 +3,7 @@ Public facing repository for "AUModInstaller". All source code is private, this 
 
 ## Among Us Versions this works on
 (x86)STEAM - <b>YES</b>
-(x86)ITCH.IO - PARTIAL*
+(x86)ITCH.IO - PARTIAL* (if TOU-MIRA is anything to go by)
 (x64)EPIC - NO
 (x64)MSSTORE - NO
 (other)MACOS - NO
