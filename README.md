@@ -1,6 +1,18 @@
 # AUModInstallerReleases
 Public facing repository for "AUModInstaller". All source code is private, this is purely for releases, issues, and suggested additions/changes.
 
+## Among Us Versions this works on
+(x86)STEAM - <b>YES</b>
+(x86)ITCH.IO - PARTIAL*
+(x64)EPIC - NO
+(x64)MSSTORE - NO
+(other)MACOS - NO
+(other)LINUX - NO
+(mobile)ANDROID - NO
+(mobile)IOS - NO
+
+* NOTE - this program only supports STEAM for now, but if the mod in question uses the same files downloaded as steam, then this will work if you disable "install vanilla client" and add the vanilla client yourself.
+
 ## Features
 - Auto copying of vanilla client from steam library folder (hoping later to actually allow selection of version to download from steam)
 - Auto download and installation of ROLES mods from their respective github releases area **
