@@ -19,8 +19,7 @@ Public facing repository for "AUModInstaller". All source code is private, this 
 - Auto download and installation of ADDON mods like LevelImposter, Submerged Map and others, from their respective github releases area **
 - (WIP) In-program updates when a new version is available downloaded from the releases section of this git (probably available from v0.0.1 onwards) **
 
-** Note: this program uses github API, github api has usage limits (60 requests per hour), this means if you use the program too much within 1 hour, you will need to wait to use it more.
-** Note 2: opening the program uses a lot of rates, but downloading multiple mods only takes a few rates, so as long as you open the program once and download all you need to in one go, you should be fine, if you get alerts saying you cant download mods, then wait an hour, and try again. this is a GITHUB API limit, not much I can do unless I can improve how the program works. for the average user, there should be no issue with this limit on a day to day basis.
+** Note: this program uses github API, github api has usage limits (60 requests per hour), this means if you use the program too much within 1 hour, you will need to wait to use it more. Opening the program uses a lot of rates, but downloading multiple mods only takes a few rates, so as long as you open the program once and download all you need to in one go, you should be fine, if you get alerts saying you cant download mods, then wait an hour, and try again. this is a GITHUB API limit, not much I can do unless I can improve how the program works. for the average user, there should be no issue with this limit on a day to day basis.
 
 ## How to use
 1. make sure you have the latest version of the program. if in a zip, extract to a folder and run the exe. if already unzipped, just run the exe.
